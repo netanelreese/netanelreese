@@ -28,8 +28,9 @@ My name is Nathanael Reese! I'm a **Systems Software Engineer** at **Boeing**. M
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
  
- [![Nathanael's GitHub stats](https://github-readme-stats.vercel.app/api?username=netanelreese)](https://github.com/netanelreese/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netanelreese&langs_count=8&hide_progress=true&theme=radical)](https://github.com/netanelreese/github-readme-stats)
 
+ 
 <!--
 **netanelreese/netanelreese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
