@@ -18,6 +18,10 @@ My name is Nathanael Reese! I'm a **Systems Software Engineer** at **Boeing**. M
 * Finishing up my coursework at the University of Oklahoma. 📜
 * 🔜
 
+### Goals :trophy:
+* Make a compilation of all major texts of Islam in the same way Sefaria did for Judaism
+* Find more goals
+
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/netanelreese?tab=repositories">
@@ -27,7 +31,7 @@ My name is Nathanael Reese! I'm a **Systems Software Engineer** at **Boeing**. M
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=netanelreese&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
- 
+   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netanelreese&langs_count=8&hide_progress=true&theme=radical)](https://github.com/netanelreese/github-readme-stats)
 
  
