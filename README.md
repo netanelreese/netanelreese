@@ -13,11 +13,11 @@ My name is Nathanael Reese! I'm a **Systems Software Engineer** at **Boeing**. M
 ![](https://komarev.com/ghpvc/?username=netanelreese&style=flat)
 
 ### 💼  Things that I'm currently working on: 
-* nothing
-* 🔜
+* Masters of Computer Science at the Georgia Institute of Technology
+* PhD in Computer Science with Neural Basis of Cognition certificate
+* Finding a topic for my dissertation/thesis in the intersection of Computer and Cognitive Science.
 
 ### Goals :trophy:
-* Make a compilation of all major texts of Islam in the same way Sefaria did for Judaism
 * Find more goals
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
