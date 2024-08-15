@@ -2,7 +2,7 @@
 # Hello! :wave::smiley:
 
 <!--Introduction -->
-My name is Nathanael Reese! I'm a **Systems Software Engineer** at **Boeing**. My passions are java dev software engineering. Below are my socials, connect with me!
+My name is Nathanael Reese! I'm a **Systems Software Engineer** at **Boeing**. My passions are High Performance Computing, Cryptography, and Embedded Software. Below are my socials, connect with me!
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-NathanaelReese-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathanael-r-88726b10b/)
