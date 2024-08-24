@@ -14,8 +14,10 @@ My name is Nathanael Reese! I'm a **Systems Software Engineer** at **Boeing**. M
 
 ### 💼  Things that I'm currently working on: 
 * Masters of Computer Science at the Georgia Institute of Technology
+* Writing papers on Psychopathy and Memory as it relates to Comp Sci and Cog Sci
+* Writing a paper on comparing parallel cryptographic algorithms on different architectures.
 * PhD in Computer Science with Neural Basis of Cognition certificate at Carnegie Mellon University
-* Finding a topic for my dissertation/thesis in the intersection of Computer and Cognitive Science.
+* Writing my dissertation about modeling ADHD brains using Soar or ACT-R or a derivative.
 
 ### Goals :trophy:
 * Find more goals
