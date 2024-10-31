@@ -19,6 +19,7 @@ My name is Nathanael Reese! I'm a **Systems Software Engineer** at **Boeing**. M
 * PhD in Computer Science with Neural Basis of Cognition certificate at Carnegie Mellon University
 * Writing my dissertation about modeling ADHD brains using Soar or ACT-R or a derivative.
 * Learning Rust to prepare for the [DARPA TRACTOR](https://www.darpa.mil/program/translating-all-c-to-rust)
+* Creating an open source American Tax Filing program because I hate turbotax
 
 ### Goals :trophy:
 * Find more goals
