@@ -16,6 +16,7 @@ My name is Nathanael Reese! I'm a **Systems Software Engineer** at **Boeing**. M
 * Surviving the Masters of Computer Science program at the Georgia Institute of Technology
 * Writing papers on Psychopathy and Memory as it relates to Comp Sci and Cog Sci
 * Creating an open source American Tax Filing program because I hate turbotax
+* Create a new programming language inspired by C, Ada, and Rust to learn PL and Compiler theory
 
 ### Goals :trophy:
 * Find more goals
