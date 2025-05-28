@@ -1,25 +1,15 @@
 <!-- Greeting -->
-# Hello! :wave::smiley:
+My name is Nathanael Reese!
 
-<!--Introduction -->
-My name is Nathanael Reese! I'm a **Systems Software Engineer** at **Boeing**. My passions are High Performance Computing, Cryptography, and Embedded Software. Below are my socials, connect with me!
+- M.S. in Computer Science specializing in Computing Systems at *Georgia Institute of Technology* (in progress)
+- B.S. in Computer Science with minors in Mathematics and Philosophy from the *University of Oklahoma*
+- Currently a Software Architect and HPC Computer Scientist for the U.S. Government 🇺🇸
 
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-NathanaelReese-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathanael-r-88726b10b/)
-[![Instagram](https://img.shields.io/badge/-reese__nathanael-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/reese__nathanael)
-[![Gmail](https://img.shields.io/badge/-reesenate-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:reesenate@gmail.com)
+Love rust, love open source projects, love starting projects and forgetting to finish them. 🤓
 
-<!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=netanelreese&style=flat)
-
-### 💼  Things that I'm currently working on: 
-* Surviving the Masters of Computer Science program at the Georgia Institute of Technology
-* Writing papers on Psychopathy and Memory as it relates to Comp Sci and Cog Sci
-* Creating an open source American Tax Filing program because I hate turbotax
-* Create a new programming language inspired by C, Ada, and Rust to learn PL and Compiler theory
-
-### Goals :trophy:
-* Find more goals
+Current project ideas:
+* TUI based Linux system monitoring utility written in rust `ttop`
+* A version of (mamba)[https://github.com/mamba-org/mamba/] rewritten in rust
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
