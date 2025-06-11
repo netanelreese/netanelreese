@@ -8,9 +8,9 @@ My name is Nathanael Reese!
 Love rust, love open source projects, love starting projects and forgetting to finish them. 🤓
 
 Current project ideas:
-* Rust port of (rockbox)[https://git.rockbox.org/cgit/rockbox.git/]
+* Rust port of [rockbox](https://git.rockbox.org/cgit/rockbox.git/)
 * TUI based Linux system monitoring utility written in rust `ttop`
-* A version of (mamba)[https://github.com/mamba-org/mamba/] rewritten in rust
+* A version of [mamba](https://github.com/mamba-org/mamba/) rewritten in rust
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
